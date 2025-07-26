@@ -136,10 +136,6 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📞 Contact
-For queries & support:
-- **Email**: mekalcheruvunithish2580@gmail.com
-- **GitHub**: [nithish-m123](https://github.com/nithish-m123)
 
 ---
 
